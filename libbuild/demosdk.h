@@ -18,4 +18,4 @@
 
 int DemoSdkEntry(void);
 
-#endif
+#endif // DEMOSDK_H

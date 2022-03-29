@@ -6,7 +6,7 @@
 
 ## 简介<a name="section11660541593"></a>
 
-IOT子系统为平台开发者提供了集成三方SDK的示例参考，具体集成方法参见《[集成三方SDK](https://device.harmonyos.com/cn/docs/develop/demo/oem_device_wifi_sdk-0000001054412155)》指导文档。
+IOT子系统为平台开发者提供了集成三方SDK的示例参考。
 
 ## 目录<a name="section1464106163817"></a>
 

@@ -12,11 +12,9 @@
 # limitations under the License.
 
 static_library("demosdk") {
-    sources = [
-        "demosdk.c"
-    ]
-    include_dirs = [
-        "//domains/iot/link/libbuild",
-        "//domains/iot/link/demolink"
-    ]
+  sources = [ "demosdk.c" ]
+  include_dirs = [
+    "//domains/iot/link/libbuild",
+    "//domains/iot/link/demolink",
+  ]
 }
