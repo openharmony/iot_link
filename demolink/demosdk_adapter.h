@@ -30,4 +30,4 @@ struct TaskPara {
 int DemoSdkCreateTask(unsigned int *handle, const struct TaskPara *para);
 void DemoSdkSleepMs(int ms);
 
-#endif
+#endif // DEMOSDK_ADAPTER_H

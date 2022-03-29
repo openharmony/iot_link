@@ -6,7 +6,7 @@
 
 ## Introduction<a name="section11660541593"></a>
 
-The IoT subsystem provides samples for integrating third-party SDKs. For details, see  [Third-Party SDK Integration](https://device.harmonyos.com/en/docs/develop/demo/oem_device_wifi_sdk-0000001054412155).
+The IoT subsystem provides samples for integrating third-party SDKs.
 
 ## Directory Structure<a name="section1464106163817"></a>
 
@@ -14,7 +14,7 @@ The IoT subsystem provides samples for integrating third-party SDKs. For details
 domains/iot/                              # IoT subsystem
 └── link
     ├── BUILD.gn                       # Build script
-    ├── demolink                       # Code for adapting third-party APIs to OpenHarmonyOS
+    ├── demolink                       # Code for adapting third-party APIs to OpenHarmony
     │   ├── BUILD.gn
     │   ├── demosdk_adapter.c
     │   └── demosdk_adapter.h
